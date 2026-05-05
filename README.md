@@ -36,6 +36,9 @@ DocBot is a full-stack AI application that answers questions from a document usi
 - HuggingFace Transformers
 
 ---
+## 📸 Demo
+
+![DocBot UI](frontend/public/demo.png)
 
 ## ▶️ Run Locally
 
@@ -47,6 +50,4 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 
 
-## 📸 Demo
 
-![DocBot UI](frontend/public/demo.png)
