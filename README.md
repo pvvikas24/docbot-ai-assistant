@@ -45,3 +45,8 @@ DocBot is a full-stack AI application that answers questions from a document usi
 cd backend
 pip install -r requirements.txt
 uvicorn main:app --reload
+
+
+## 📸 Demo
+
+![DocBot UI](frontend/public/demo.png)
